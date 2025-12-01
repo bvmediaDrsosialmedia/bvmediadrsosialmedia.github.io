@@ -1,0 +1,33 @@
+[
+  {"name": "Instagram Followers"},
+  {"name": "Instagram Likes"},
+  {"name": "Instagram Views"},
+  {"name": "Instagram Impressions"},
+  {"name": "Instagram Story Views"},
+  
+  {"name": "TikTok Followers"},
+  {"name": "TikTok Likes"},
+  {"name": "TikTok Views"},
+  {"name": "TikTok Shares"},
+  {"name": "TikTok Comments"},
+
+  {"name": "YouTube Subscribers"},
+  {"name": "YouTube Views"},
+  {"name": "YouTube Likes"},
+  {"name": "YouTube Comments"},
+
+  {"name": "Facebook Page Likes"},
+  {"name": "Facebook Followers"},
+  {"name": "Facebook Post Likes"},
+  {"name": "Facebook Post Comments"},
+
+  {"name": "Twitter/X Followers"},
+  {"name": "Twitter/X Likes"},
+  {"name": "Twitter/X Views"},
+
+  {"name": "Telegram Members"},
+  {"name": "Telegram Channel Views"},
+  {"name": "Telegram Reactions"},
+
+  {"name": "Threads Followers"}
+]
